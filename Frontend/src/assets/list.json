@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Stand up comedy",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "../src/assets/DemoBook.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Serious Drama",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Drama",
+        "image": "../src/assets/DemoBook.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Story Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Fictional",
+        "image": "../src/assets/DemoBook.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Korean Drama",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "../src/assets/DemoBook.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Scary Stories",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 100,
+        "category": "Horror",
+        "image": "../src/assets/DemoBook.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Story Book",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "../src/assets/DemoBook.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Romantic Novel",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "../src/assets/DemoBook.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Sports Magazine",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "../src/assets/DemoBook.jpg"
+    },
+    {
+        "id": 9,
+        "name": "A true story",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 200,
+        "category": "Biopic",
+        "image": "../src/assets/DemoBook.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Space Adventure",
+        "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price": 100,
+        "category": "Space",
+        "image": "../src/assets/DemoBook.jpg"
+    }
+
+] 
